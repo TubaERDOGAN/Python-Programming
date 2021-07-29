@@ -5,9 +5,9 @@ import sys
 
 mesaj = MIMEMultipart()
 
-mesaj["From"] = "coskun.m.murat@gmail.com"
+mesaj["From"] = "tubaerdogan0619@gmail.com"
 
-mesaj["To"] = "coskun.m.murat@gmail.com"
+mesaj["To"] = "tubaerdogan0619@gmail.com"
 
 mesaj["Subject"] = "Smtp Mail Gönderme"
 
@@ -16,7 +16,7 @@ yazi = """
 
 Smtp ile mail gönderiyorum.
 
-Mustafa Murat Coşkun
+TUBA ERDOĞAN
 
 
 """
